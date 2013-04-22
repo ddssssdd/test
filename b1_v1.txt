@@ -1,0 +1,3 @@
+this is file in branch b1
+this is second line commited by another clone folder.
+this is third line committed by origin folder in 3rd.
